@@ -6,7 +6,7 @@ import hotdogImg from "@/assets/hotdog.jpg";
 import friesImg from "@/assets/Pommes.jpeg";
 
 const products = [
-  { title: "Burger", desc: "Saftige Burger mit hausgemachten Soßen.", img: burgerImg },
+  { title: "Kalben-Burger", desc: "Saftige Burger mit hausgemachten Soßen.", img: burgerImg },
   { title: "Zündwurst", desc: "Unsere Zündwurst – Brat- oder Rindswurst mit würziger Currysoße & individuellen Toppings.", img: zuendwurst },
   { title: "Asphaltpommes", desc: "Knusprig goldene Pommes – unser Signature.", img: friesImg },
 ];
