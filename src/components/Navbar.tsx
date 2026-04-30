@@ -3,7 +3,7 @@ import { motion, AnimatePresence } from "framer-motion";
 import { Menu, X } from "lucide-react";
 import Logo from "../assets/Logo.png";
 
-const GOOGLE_FORM_URL = "https://docs.google.com/forms";
+const GOOGLE_FORM_URL = "https://forms.gle/hxdb4pzRW9tZGwdf7";
 
 const navLinks = [
   { label: "Foodtruck", href: "#about" },

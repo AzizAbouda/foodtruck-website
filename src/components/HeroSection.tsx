@@ -1,7 +1,7 @@
 import { motion } from "framer-motion";
 import heroImg from "@/assets/bg.png";
 
-const GOOGLE_FORM_URL = "https://forms.gle/SqzV1o5aHJRKebyM8";
+const GOOGLE_FORM_URL = "https://forms.gle/hxdb4pzRW9tZGwdf7";
 
 const HeroSection = () => {
   return (

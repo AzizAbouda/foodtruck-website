@@ -2,7 +2,7 @@ import { motion, useInView } from "framer-motion";
 import { useRef } from "react";
 import cateringImg from "@/assets/catering.jpg";
 
-const GOOGLE_FORM_URL = "https://docs.google.com/forms";
+const GOOGLE_FORM_URL = "https://forms.gle/hxdb4pzRW9tZGwdf7";
 
 const CateringSection = () => {
   const ref = useRef(null);
