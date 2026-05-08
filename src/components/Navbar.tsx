@@ -9,6 +9,7 @@ const navLinks = [
   { label: "Foodtruck", href: "#about" },
   { label: "Speisekarte", href: "#menu" },
   { label: "Catering", href: "#catering" },
+  {label: "Feedback", href: "#testimonials" },
   { label: "Kontakt", href: "#contact" },
 ];
 
