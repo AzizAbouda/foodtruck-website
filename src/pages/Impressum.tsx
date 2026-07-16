@@ -21,10 +21,10 @@ const Impressum = () => (
             Angaben gemäß § 5 TMG
           </h2>
           <p>
-            Kai Hafermann<br />
+            [Name des Betreibers]<br />
             Kolbenfresser<br />
-            Koppelheck 4<br />
-            56377 Nassau
+            [Straße und Hausnummer]<br />
+            [PLZ und Ort]
           </p>
         </section>
 
@@ -32,7 +32,7 @@ const Impressum = () => (
         <section>
           <h2 className="font-heading text-2xl text-foreground mb-2 tracking-wide">Kontakt</h2>
           <p>
-            Telefon: +49 (0) 171 5745579<br />
+            Telefon: [Telefonnummer]<br />
           </p>
         </section>
 
@@ -43,7 +43,7 @@ const Impressum = () => (
           </h2>
           <p>
             Umsatzsteuer-Identifikationsnummer gemäß § 27 a Umsatzsteuergesetz:<br />
-            DE325638253
+            [USt-IdNr.]
           </p>
         </section>
 
@@ -53,9 +53,9 @@ const Impressum = () => (
             Verantwortlich für den Inhalt nach § 18 Abs. 2 MStV
           </h2>
           <p>
-            Kai Hafermann<br />
-            Koppelheck 4<br />
-            56377 Nassau
+            [Name des Betreibers]<br />
+            [Straße und Hausnummer]<br />
+            [PLZ und Ort]
           </p>
         </section>
 

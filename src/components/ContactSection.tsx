@@ -26,11 +26,11 @@ const ContactSection = () => {
         >
           <div className="flex items-center justify-center gap-3">
             <MapPin size={20} className="text-primary" />
-            <span>Kai Hafermann Kolbenfresser · Koppelheck 4 · 56377 Nassau</span>
+            <span>Kolbenfresser · [Straße und Hausnummer] · [PLZ und Ort]</span>
           </div>
           <div className="flex items-center justify-center gap-3">
             <Phone size={20} className="text-primary" />
-            <a href="tel:01715745579" className="hover:text-primary transition-colors">0171-5745579</a>
+            <a href="tel:[Telefonnummer]" className="hover:text-primary transition-colors">[Telefonnummer]</a>
           </div>
         </motion.div>
 
